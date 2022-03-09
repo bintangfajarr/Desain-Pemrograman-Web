@@ -1,0 +1,45 @@
+body {
+    background-color: aquamarine
+}
+
+h1 {
+    text-align: center;
+}
+
+.navigasi {
+    background-color: skyblue;
+    border: 1px solid #000;
+}
+
+.navigasi li {
+    display: inline-block;
+    font-style: italic;
+    /* font-size: 1.75em; */
+}
+
+.content {
+    padding: 25px;
+    margin: 25px;
+}
+
+.content p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.content h3 {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navigasi li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background-color: skyblue;
+}
